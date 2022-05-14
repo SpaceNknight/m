@@ -1832,7 +1832,8 @@
 		},
 		"isPublic": {
 			"boolean": {}
-		},
+		}
+	},
 		"Partner": {
 			"name": {
 				"string": {}
@@ -1862,5 +1863,5 @@
 				"boolean": {}
 			}
 		}
-	}
+	
 }
