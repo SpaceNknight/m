@@ -1821,13 +1821,13 @@
 				"Talland, Tadburn Close, Romsey,SO51 5AW"
 			]
 		},
-		"account creation": {
+		"accountcreation": {
 			"dateTime": {
 				"min": "2005-01-01T00:00:00Z",
 				"max": "2021-12-31T23:59:59Z"
 			}
 		},
-		"most used word": {
+		"common": {
 			"loremWord": {}
 		},
 		"isPublic": {
